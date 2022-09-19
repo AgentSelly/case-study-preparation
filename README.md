@@ -2,12 +2,12 @@
 
 ## Important
 
-Due to the current circumstances we can only consider people with the language comprehension of C1 or better. 
-The company language, official documents and team meetings are in German. 
+Due to the current circumstances we can only consider people with the language comprehension of C1 or better.
+The company language, official documents and team meetings are in German.
 Hiring you if you don't speak German well would not be fair to you.
 Thank you for your understanding.
 
-## Unser Bewerbungsprozess
+## Unser Bewerbungsprozess
 
 Was passiert nach dem du dich bei uns beworben hast?
 1. Video-Call (online, 30 Minuten)
@@ -15,18 +15,18 @@ Was passiert nach dem du dich bei uns beworben hast?
 1. Persönliches Treffen mit dem CEO und deinem zukünftigen Team (vor Ort in Zürich, 1h+)
 1. Glückwunsch! 🥳 wir freuen uns auf unsere gemeinsame Zukunft!
 
-## Aktueller Schritt: Case Study
+## Aktuelle Phase: Case Study
 
-Glückwunsch, wenn du diesen Link von uns erhalten hast! Das bedeutet wir möchten ein besseres Gefühl dafür erhalten, wie du arbeitest. 
+Glückwunsch, wenn du diesen Link von uns erhalten hast! Das bedeutet wir möchten ein besseres Gefühl dafür erhalten, wie du arbeitest.
 
 Diese Case Study soll eine Situation in unserem Arbeitsalltag simulieren. Dafür gelten folgende Umstände:
 - Sei vorbereitet! Unten steht was du vor dem Start brauchst.
 - Die Case Study findet live in einem Call statt. Dies gibt dir die Möglichkeit direkt Fragen zu stellen wenn etwas unklar ist oder du irgendwo Hilfe brauchst.
-- Du arbeitest auf deinem eigenen Feature Branch. Diesen musst du selbstverständlich noch erstellen. 
-- Ein Commit ist ein Release. 
-- Die Zeit ist auf 1h begrenzt. Du wirst nicht alles erledigen können. Mache so viel wie du kannst, das ist in Ordnung so. 
-- Wenn die Zeit vorbei ist, kannst du nichts mehr pushen. Wir werden nur das werten, was wir am Schluss haben. 
-- Die Case Study ist auf verschiedene Seniority-Level (Junior - Principal Engineer) ausgelegt. 
+- Du arbeitest auf deinem eigenen Feature Branch. Diesen musst du selbstverständlich noch erstellen.
+- Ein Commit ist ein Release.
+- Die Zeit ist auf 1h begrenzt. Du wirst nicht alles erledigen können. Mache so viel wie du kannst, das ist in Ordnung so.
+- Wenn die Zeit vorbei ist, kannst du nichts mehr pushen. Wir werden nur das werten, was wir am Schluss haben.
+- Die Case Study ist auf verschiedene Seniority-Level (Junior - Principal Engineer) ausgelegt.
 - Du darfst so arbeiten wie du es am liebsten magst (Linux, MacOS, Windows, Visual Studio Code, Webstorm, etc.).
 - Selbstverständlich sind das Internet und auch Stackoverflow erlaubt. Alles andere wäre unrealistisch.
 
@@ -51,3 +51,5 @@ und
 ```
 pnpm dev
 ```
+
+Wenn du jetzt im Browser unter `http://127.0.0.1:8788/demo` eine farbige Seite sehen kannst, bist du bereit!
