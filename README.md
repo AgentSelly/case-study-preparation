@@ -15,7 +15,7 @@ Was passiert nach dem du dich bei uns beworben hast?
 1. Persönliches Treffen mit dem CEO und deinem zukünftigen Team (vor Ort in Zürich, 1h+)
 1. Glückwunsch! 🥳 wir freuen uns auf unsere gemeinsame Zukunft!
 
-## Aktueller Schritt: Case Study
+## Aktuelle Phase: Case Study
 
 Glückwunsch, wenn du diesen Link von uns erhalten hast! Das bedeutet wir möchten ein besseres Gefühl dafür erhalten, wie du arbeitest.
 
@@ -51,3 +51,5 @@ und
 ```
 pnpm dev
 ```
+
+Wenn du jetzt im Browser unter `http://127.0.0.1:8788/demo` eine farbige Seite sehen kannst, bist du bereit!
