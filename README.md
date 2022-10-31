@@ -2,17 +2,17 @@
 
 ## Important
 
-Due to the current circumstances we can only consider people with the language comprehension of C1 or better.
+Due to the current circumstances we can only consider people with the language comprehension of C1 or better in German.
 The company language, official documents and team meetings are in German.
-Hiring you if you don't speak German well would not be fair to you.
-Thank you for your understanding.
+Hiring you if you don't speak German well would not be fair to you. Thank you for your understanding.
 
 ## Unser Bewerbungsprozess
 
 Was passiert nach dem du dich bei uns beworben hast?
-1. Video-Call (online, 30 Minuten)
-1. Case Study (online, 1h Case Study, 1h gemeinsame Besprechung)
-1. Persönliches Treffen mit dem CEO und deinem zukünftigen Team (vor Ort in Zürich, 1h+)
+1. Video-Call (remote)
+1. Case Study und Besprechnung (remote)
+1. Persönliches Treffen mit dem CEO (vor Ort in Zürich)
+1. Weitere Treffen nach Bedarf
 1. Glückwunsch! 🥳 wir freuen uns auf unsere gemeinsame Zukunft!
 
 ## Aktuelle Phase: Case Study
